@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Camion.cpp" />
     <ClCompile Include="Héritage.cpp" />
+    <ClCompile Include="Moto.cpp" />
+    <ClCompile Include="Voiture.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\Documents\ciel 2 laurel\Vehicule.h" />
+    <ClInclude Include="Camion.h" />
+    <ClInclude Include="Moto.h" />
+    <ClInclude Include="Voiture.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
