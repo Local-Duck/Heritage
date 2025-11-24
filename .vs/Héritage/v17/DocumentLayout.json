@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Camion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:Camion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:Moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\H\u00E9ritage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:H\u00E9ritage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Voiture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,8 +14,16 @@
       "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\Documents\\ciel 2 laurel\\Vehicule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\H\u00E9ritage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:H\u00E9ritage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:Bus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Camion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:Camion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E18937-8EB5-4922-870E-1E8006673478}|H\u00E9ritage.vcxproj|solutionrelative:Moto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,17 +33,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Moto.h",
+              "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h",
+              "RelativeDocumentMoniker": "Moto.h",
+              "ToolTip": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h",
+              "RelativeToolTip": "Moto.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T14:37:33.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bus.h",
+              "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Bus.h",
+              "RelativeDocumentMoniker": "Bus.h",
+              "ToolTip": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Bus.h",
+              "RelativeToolTip": "Bus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-17T16:31:04.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Camion.h",
               "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Camion.h",
               "RelativeDocumentMoniker": "Camion.h",
               "ToolTip": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Camion.h",
               "RelativeToolTip": "Camion.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-17T14:37:45.598Z",
               "EditorCaption": ""
@@ -47,19 +78,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Moto.h",
-              "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h",
-              "RelativeDocumentMoniker": "Moto.h",
-              "ToolTip": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Moto.h",
-              "RelativeToolTip": "Moto.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-17T14:37:33.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Voiture.h",
               "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\Voiture.h",
               "RelativeDocumentMoniker": "Voiture.h",
@@ -72,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Vehicule.h",
               "DocumentMoniker": "C:\\Users\\SNIR\\Documents\\ciel 2 laurel\\Vehicule.h",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\ciel 2 laurel\\Vehicule.h",
@@ -85,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "H\u00E9ritage.cpp",
               "DocumentMoniker": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\H\u00E9ritage.cpp",
               "RelativeDocumentMoniker": "H\u00E9ritage.cpp",
               "ToolTip": "C:\\Users\\SNIR\\source\\repos\\H\u00E9ritage\\H\u00E9ritage.cpp",
               "RelativeToolTip": "H\u00E9ritage.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-17T13:07:41.041Z",
               "EditorCaption": ""
