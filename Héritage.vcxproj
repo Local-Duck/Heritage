@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Documents\ciel 2 laurel\Vehicule.cpp" />
     <ClCompile Include="Bus.cpp" />
     <ClCompile Include="Camion.cpp" />
     <ClCompile Include="Héritage.cpp" />
